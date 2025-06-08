@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-Project setup instructions: 
+1.Project setup instructions: 
 
 Unzip or clone both the Frontend and Backend directories. 
 
