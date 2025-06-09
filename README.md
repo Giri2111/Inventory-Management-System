@@ -188,3 +188,6 @@ Frontend: Hosted on Netlify
 Backend: Hosted on Render
 
 Database: Aiven PostgreSQL (Cloud)
+
+Project live Link: https://inventory-management-001.netlify.app/
+
